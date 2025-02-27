@@ -21,6 +21,10 @@ public class Git {//class
 		System.out.println("abi@gmail.com");
 	}
 
+	public void studentage() {// method-5
+		System.out.println(20);
+	
+	}
 	public static void main(String[] args) {
 		//object syntax
 		Git s = new Git();
@@ -29,5 +33,6 @@ public class Git {//class
 		s.studentnumber();
 		s.studentemailid();
 		s.studentlocation();
+		s.studentage();
 	}
 }

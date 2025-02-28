@@ -30,6 +30,8 @@ public class Git {//class
 	public static void main(String[] args) {
 		//object syntax
 		Git s = new Git();
+		System.out.println(s.i);
+		System.out.println(s.j);
 		s.studentname();
 		s.studentid();
 		s.studentnumber();

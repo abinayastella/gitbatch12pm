@@ -2,6 +2,7 @@ package com.git;
 
 public class Git {//class
 	int i=10;//variable---1
+	int j=20;//--->variable 2
 	public void studentname() {// method-1
 		System.out.println("abi");
 	}

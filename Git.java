@@ -1,5 +1,5 @@
-package com.git
-	print("ashok");
+package com.git;
+	
 
 public class Git {//class
 	int i=10;//variable---1
